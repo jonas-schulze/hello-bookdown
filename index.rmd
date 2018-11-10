@@ -1,0 +1,14 @@
+---
+title: Hello Bookdown!
+author: Jonas Schulze
+date: "`r Sys.Date()`"
+documentclass: book
+site: "bookdown::bookdown_site"
+---
+
+# What am I doing?
+
+This looks like plain Markdown with a slice of `yaml` at the beginning.
+I wonder whether a slice of `toml` would work as well, using `+++` of course. 🤔
+
+It even supports unicode!

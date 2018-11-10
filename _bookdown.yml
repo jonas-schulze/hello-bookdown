@@ -1,0 +1,4 @@
+book_filename: hello-bookdown
+output_dir: docs
+delete_merged_file: true # deletes intermediate files
+new_session: yes # see https://bookdown.org/yihui/bookdown/new-session.html
